@@ -4,17 +4,42 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cavoidarlic" alt="cavoidarlic" /></a> </p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=cavoidarlic&show_icons=true&locale=en" alt="cavoidarlic" /></p>
+<!-- The following sections were reordered and placed in a table for side-by-side layout -->
+<table align="center" style="width: 100%;">
+  <tr>
+    <td align="left" style="width: 50%;">
+      <!-- GitHub Streak Stats -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=cavoidarlic&" alt="cavoidarlic" />
+    </td>
+    <td align="right" style="width: 50%;">
+      <!-- Cavoid's GitHub Stats -->
+      <img src="https://github-readme-stats.vercel.app/api?username=cavoidarlic&show_icons=true&locale=en" alt="cavoidarlic" />
+    </td>
+  </tr>
+</table>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cavoidarlic&" alt="cavoidarlic" /></p>
-
+<!-- Most Used Languages -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cavoidarlic&show_icons=true&locale=en&layout=compact" alt="cavoidarlic" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/cavoidarlic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cavoidarlic" height="30" width="40" /></a>
-<a href="https://fb.com/sailongistaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sailongistaken" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@cavoid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@cavoid" height="30" width="40" /></a>
-</p>
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=cavoidarlic&label=Profile%20views&color=0e75b6&style=flat" alt="cavoidarlic" /> </p>
+<!-- The "Connect with me" box and the "Profile views" image are now in separate rows within this right-aligned table. -->
+<table align="right">
+  <tr>
+    <td style="text-align: right;">
+      <div style="border-radius: 6px; padding: 20px; background-color: #262626; color: white; display: inline-block;">
+        <h3 style="text-align: right; color: white;">Connect with me:</h3>
+        <p style="text-align: right;">
+          <a href="https://twitter.com/cavoidarlic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cavoidarlic" height="30" width="40" /></a>
+          <a href="https://fb.com/sailongistaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sailongistaken" height="30" width="40" /></a>
+          <a href="https://www.youtube.com/@cavoid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@cavoid" height="30" width="40" /></a>
+        </p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: right;">
+      <p style="text-align: right; margin-top: 15px;">
+        <img src="https://komarev.com/ghpvc/?username=cavoidarlic&label=Profile%20views&color=0e75b6&style=flat" alt="cavoidarlic" />
+      </p>
+    </td>
+  </tr>
+</table>
