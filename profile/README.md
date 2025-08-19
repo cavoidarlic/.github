@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sái Long</h1>
-<h3 align="center">A happy-go-lucky newbie developer.</h3>
+<h3 align="center"> i don't know what to put here </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cavoidarlic&label=Profile%20views&color=0e75b6&style=flat" alt="cavoidarlic" /> </p>
 
