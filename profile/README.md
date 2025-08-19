@@ -4,17 +4,17 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cavoidarlic" alt="cavoidarlic" /></a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cavoidarlic&show_icons=true&locale=en&layout=compact" alt="cavoidarlic" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cavoidarlic&show_icons=true&locale=en" alt="cavoidarlic" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cavoidarlic&" alt="cavoidarlic" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cavoidarlic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cavoidarlic" height="30" width="40" /></a>
 <a href="https://fb.com/sailongistaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sailongistaken" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@cavoid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@cavoid" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cavoidarlic&show_icons=true&locale=en&layout=compact" alt="cavoidarlic" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cavoidarlic&show_icons=true&locale=en" alt="cavoidarlic" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cavoidarlic&" alt="cavoidarlic" /></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cavoidarlic&label=Profile%20views&color=0e75b6&style=flat" alt="cavoidarlic" /> </p>
