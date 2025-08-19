@@ -5,14 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cavoidarlic" alt="cavoidarlic" /></a> </p>
 
-- 🔭 I’m currently working on [Doro777](https://github.com/doro-777)
-
-- 🌱 I’m currently learning **Java**
-
-- 📫 How to reach me **stl42225@gmail.com**
-
-- ⚡ Fun fact **I am very bad at coding.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/cavoidarlic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cavoidarlic" height="30" width="40" /></a>
