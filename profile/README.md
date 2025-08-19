@@ -17,4 +17,4 @@
 <a href="https://www.youtube.com/@cavoid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@cavoid" height="30" width="40" /></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=cavoidarlic&label=Profile%20views&color=0e75b6&style=flat" alt="cavoidarlic" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=cavoidarlic&label=Profile%20views&color=0e75b6&style=flat" alt="cavoidarlic" /> </p>
