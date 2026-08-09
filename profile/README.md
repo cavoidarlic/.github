@@ -23,7 +23,7 @@
 
 <td width="50%" align="center" valign="top">
 
-### GitFut
+### My GitFut (CM/CAM)
 
 <a href="https://gitfut.com/cavoidarlic">
 <img src="https://gitfut.com/cavoidarlic.png" width="400"/>
