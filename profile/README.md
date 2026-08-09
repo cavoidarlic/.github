@@ -15,7 +15,15 @@
 <img src="https://lanyard.cnrad.dev/api/312860306701418497?theme=dark&bg=0b0710&borderRadius=10px"/>
 </a>
 
-<br><br>
+<hr>
+
+### Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,cpp,java&theme=dark"/>
+
+<hr>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cavoidarlic&bg_color=0b0710&color=d6b35a&line=8c6a2f&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </td>
 
@@ -27,26 +35,10 @@
 <img src="https://gitfut.com/cavoidarlic.png" width="400"/>
 </a>
 
-<br><br>
-
 </td>
 
 </tr>
 </table>
-
-<br>
-
-<div align="center">
-
-### Tech Stack
-
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,cpp,java&theme=dark"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cavoidarlic&bg_color=0b0710&color=d6b35a&line=8c6a2f&point=ffffff&area=true&hide_border=true" width="90%"/>
-
-</div>
 
 <br>
 
