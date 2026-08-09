@@ -17,8 +17,6 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=cavoidarlic&theme=dark&bg_color=0b0710&title_color=d6b35a&text_color=d8d0df&icon_color=8c6a2f&border_color=24102f&include_all_commits=true&count_private=true&hide_border=false"/>
-
 </td>
 
 <td width="50%" align="center" valign="top">
@@ -30,8 +28,6 @@
 </a>
 
 <br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavoidarlic&layout=compact&theme=dark&bg_color=0b0710&title_color=d6b35a&text_color=d8d0df&border_color=24102f&hide_border=false"/>
 
 </td>
 
