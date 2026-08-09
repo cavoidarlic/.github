@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0710,50:24102f,100:8c6a2f&height=150&section=header&text=CAVOIDARLIC&fontSize=46&fontColor=d6b35a&fontAlignY=42&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0710,50:24102f,100:8c6a2f&height=150&section=header&text=Cavoid&fontSize=46&fontColor=d6b35a&fontAlignY=42&animation=fadeIn"/>
 
 </div>
 
