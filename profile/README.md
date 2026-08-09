@@ -5,3 +5,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=cavoidarlic&theme=omni&hide_border=false&include_all_commits=true&count_private=false)
 </div>
+
+
+[![My GitFut card](https://gitfut.com/cavoidarlic.png)](https://gitfut.com/cavoidarlic)
