@@ -24,7 +24,7 @@
 
 <td width="50%" align="center" valign="top">
 
-### GitFut
+### My GitFut (I can play CM/CAM!)
 
 <a href="https://gitfut.com/cavoidarlic">
 <img src="https://gitfut.com/cavoidarlic.png" width="430"/>
