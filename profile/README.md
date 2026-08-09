@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0710,50:24102f,100:8c6a2f&height=150&section=header&text=Cavoid&fontSize=46&fontColor=d6b35a&fontAlignY=42&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0710,50:24102f,100:8c6a2f&height=150&section=header&text=CAVOIDARLIC&fontSize=46&fontColor=d6b35a&fontAlignY=42&animation=fadeIn"/>
 
 </div>
 
 <table align="center">
 <tr>
+
 <td width="50%" align="center" valign="top">
 
 ### Discord
@@ -16,25 +17,24 @@
 
 <br><br>
 
-### GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=cavoidarlic&theme=dark&bg_color=0b0710&title_color=d6b35a&text_color=d8d0df&icon_color=8c6a2f&border_color=24102f&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=cavoidarlic&theme=dark&bg_color=0b0710&title_color=d6b35a&text_color=d8d0df&icon_color=8c6a2f&border_color=24102f&include_all_commits=true&count_private=true&hide_border=false"/>
 
 </td>
 
 <td width="50%" align="center" valign="top">
 
-### My GitFut (I can play CM/CAM!)
+### GitFut
 
 <a href="https://gitfut.com/cavoidarlic">
-<img src="https://gitfut.com/cavoidarlic.png" width="430"/>
+<img src="https://gitfut.com/cavoidarlic.png" width="400"/>
 </a>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavoidarlic&layout=compact&theme=dark&bg_color=0b0710&title_color=d6b35a&text_color=d8d0df&border_color=24102f"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cavoidarlic&layout=compact&theme=dark&bg_color=0b0710&title_color=d6b35a&text_color=d8d0df&border_color=24102f&hide_border=false"/>
 
 </td>
+
 </tr>
 </table>
 
