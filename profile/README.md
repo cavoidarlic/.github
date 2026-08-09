@@ -32,7 +32,7 @@
 ### My GitFut (CM/CAM)
 
 <a href="https://gitfut.com/cavoidarlic">
-<img src="https://gitfut.com/cavoidarlic.png?country=VN" width="400"/>
+<img src="https://gitfut.com/cavoidarlic.png?country=AR" width="400"/>
 </a>
 
 </td>
