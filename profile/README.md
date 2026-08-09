@@ -9,7 +9,7 @@
 
 <td width="50%" align="center" valign="top">
 
-### Discord
+### My Discord
 
 <a href="https://discord.com/users/312860306701418497">
 <img src="https://lanyard.cnrad.dev/api/312860306701418497?theme=dark&bg=0b0710&borderRadius=10px"/>
@@ -17,7 +17,7 @@
 
 <hr>
 
-### Tech Stack
+### My Skills!
 
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,cpp,java&theme=dark"/>
 
