@@ -9,15 +9,11 @@
 
 <td width="50%" align="center" valign="top">
 
-### My Discord
-
 <a href="https://discord.com/users/312860306701418497">
 <img src="https://lanyard.cnrad.dev/api/312860306701418497?theme=dark&bg=0b0710&borderRadius=10px"/>
 </a>
 
 <hr>
-
-### My Skills!
 
 <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,cpp,java&theme=dark"/>
 
@@ -28,8 +24,6 @@
 </td>
 
 <td width="50%" align="center" valign="top">
-
-### My GitFut (CM/CAM)
 
 <a href="https://gitfut.com/cavoidarlic">
 <img src="https://gitfut.com/cavoidarlic.png?country=AR" width="400"/>
