@@ -19,8 +19,6 @@
 
 <hr>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cavoidarlic&bg_color=0b0710&color=d6b35a&line=8c6a2f&point=ffffff&area=true&hide_border=true" width="95%"/>
-
 </td>
 
 <td width="50%" align="center" valign="top">
