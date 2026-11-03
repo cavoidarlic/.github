@@ -31,7 +31,7 @@
 </a>
 
 <div style="margin: 8px 0;">
-  <img src="https://streak-stats.demolab.com/?user=cavoidarlic&theme=dark&background=0b0710&ring=d6b35a&fire=d6b35a&currStreakNum=d6b35a&sideNums=eed99e&sideLabels=eed99e&currStreakLabel=d6b35a&dates=7d8590&border=24102f&border_radius=8" width="390"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=cavoidarlic&theme=dark&background=0b0710&ring=d6b35a&fire=d6b35a&currStreakNum=d6b35a&sideNums=eed99e&sideLabels=eed99e&currStreakLabel=d6b35a&dates=7d8590&border=24102f&border_radius=8" width="390"/>
 </div>
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=cavoidarlic&layout=compact&bg_color=0b0710&border_color=24102f&title_color=d6b35a&text_color=e6edf3&border_radius=8" width="390"/>
